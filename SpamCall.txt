@@ -1,0 +1,12 @@
+﻿Panggilan Spam Tidak Terbatas
+Pembaruan
+ $ pkg update && pkg upgrade
+$ pkg install php
+ $ pkg install git
+$ git clone https://github.com/Aditya021/SpamCall
+$ cd SpamSms
+$ php SpamCall.php
+Diterbitkan Tanpa Target ===>
+Mode Banyak (y / n) ===> UNTUK Spam Lebih Dari 1
+JumlahSpam ===> diterbitkan Jumlah yang ingin dispam
+[Berhasil]
